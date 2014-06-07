@@ -1,2 +1,2 @@
 #Readme test
-Test of GitMerge file transfer
+Does this work twice?
